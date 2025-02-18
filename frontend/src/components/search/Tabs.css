@@ -1,0 +1,4 @@
+:where(.css-dev-only-do-not-override-1okl62o).ant-tabs .ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+    color: #22C55E !important;
+    text-shadow: 0 0 0.25px currentcolor;
+}
